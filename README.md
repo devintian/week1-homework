@@ -26,3 +26,6 @@ Inside the repo folder on your computer, create the following:
 
 
         In the images folder, save the images you plan on using (like your profile image and the placeholder images for the portfolio).
+
+
+https://github.com/devintian/week1-homework/blob/master/demo/1.png
